@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+/public
+PublicWiki/output
+PublicWiki/tiddlers/private-MyTiddlyWiki
+/scripts/daemon
+$__StoryList.tid
