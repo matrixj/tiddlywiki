@@ -1,0 +1,15 @@
+created: 20210113110152484
+creator: patrick
+modified: 20210113120328602
+modifier: patrick
+tags: 流式计算
+title: 流式计算
+tmap.id: f762f0a0-de3b-439e-9472-8b998c3229e6
+type: text/vnd.tiddlywiki
+
+<<reuse-tiddler "Apache Beam">>
+---
+<<reuse-tiddler "流式计算概念">>
+
+---
+
