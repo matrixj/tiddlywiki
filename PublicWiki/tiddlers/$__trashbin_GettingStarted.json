@@ -1,0 +1,6 @@
+{
+    "title": "GettingStarted",
+    "tags": "$:/tags/GettingStarted",
+    "caption": "Step 1<br>Syncing",
+    "text": "Welcome to ~TiddlyWiki and the ~TiddlyWiki community\n\nVisit https://tiddlywiki.com/ to find out more about ~TiddlyWiki and what it can do.\n\n! Syncing Changes to the Server\n\nBefore you can start storing important information in ~TiddlyWiki it is important to make sure that your changes are being reliably saved by the server.\n\n# Create a new tiddler using the {{$:/core/images/new-button}} button in the sidebar on the right\n# Click the {{$:/core/images/done-button}} button at the top right of the new tiddler\n# Check the ~TiddlyWiki command line for a message confirming the tiddler has been saved\n# Refresh the page in the browser to and verify that the new tiddler has been correctly saved\n"
+}
