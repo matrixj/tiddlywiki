@@ -7,12 +7,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520patrick</loc>
-		<lastmod>2021-01-13</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -27,6 +21,30 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:mmpaynewtonuserisksvr变更文档</loc>
+		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:单词</loc>
+		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:流式计算</loc>
+		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:流式计算概念</loc>
+		<lastmod>2021-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
