@@ -7,6 +7,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:2021-1-14/开通6.1</loc>
+		<lastmod>2021-01-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:APrivateContent</loc>
 		<lastmod>2021-01-13</lastmod>
 		<changefreq>monthly</changefreq>
@@ -19,10 +25,28 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Book</loc>
+		<lastmod>2021-01-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;错误处理&apos;%2520by%2520patrick</loc>
+		<lastmod>2021-01-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Index</loc>
 		<lastmod>2021-01-14</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Streaming%2520Systems,%25201st%2520Edition</loc>
+		<lastmod>2021-01-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Task</loc>
@@ -49,6 +73,12 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:c++%2520Standard%2520Draft%2520Source</loc>
+		<lastmod>2021-01-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -63,6 +93,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:单词</loc>
 		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:寻豆师</loc>
+		<lastmod>2021-01-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -99,6 +135,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:流式计算概念</loc>
 		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:错误处理</loc>
+		<lastmod>2021-01-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
