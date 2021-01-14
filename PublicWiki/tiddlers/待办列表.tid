@@ -1,6 +1,6 @@
 created: 20210114035149303
 creator: patrick
-modified: 20210114075535160
+modified: 20210114083610971
 modifier: patrick
 tags: Index APrivateContent
 title: 待办列表
@@ -8,5 +8,11 @@ tmap.id: 66166c2a-0584-4a0a-a6b0-f2a2a9bd0cee
 type: text/vnd.tiddlywiki
 
 <$macrocall $name=table-dynamic  caption="工作-待办列表" filter="[tag[WorkTask]]+[field:priority[very high]]-[tag[done]]" fields="title tags" class="w-100"/>
+
 ---
+
 <$macrocall $name=table-dynamic  caption="待办列表" filter="[tag[Task]]+[field:priority[very high]]-[tag[done]]" fields="title tags" class="w-100"/>
+
+---
+
+<$macrocall $name=table-dynamic  caption="阅读中的书" filter="[tag[Book]]-[tag[done]]" fields="title tags" class="w-100"/>

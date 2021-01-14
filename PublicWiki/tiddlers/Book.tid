@@ -1,0 +1,9 @@
+created: 20210114083307416
+creator: patrick
+modified: 20210114083400975
+modifier: patrick
+title: Book
+tmap.id: a7275a09-3028-4b93-9692-86261eb520d8
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
