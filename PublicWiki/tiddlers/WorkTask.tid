@@ -1,0 +1,11 @@
+color: #fa2929
+created: 20210114075309815
+creator: patrick
+modified: 20210114075739514
+modifier: patrick
+tags: Index WorkTask
+title: WorkTask
+tmap.id: b7c7e69d-8b25-435d-878a-74e2a85f496b
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
