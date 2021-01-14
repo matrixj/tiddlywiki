@@ -1,0 +1,11 @@
+caption: 待办列表
+created: 20210114035343317
+creator: patrick
+modified: 20210114043416732
+modifier: patrick
+tags: $:/tags/TextEditor/Snippet
+title: 待办列表-模板
+tmap.id: 0ce47861-2ad8-4855-a27d-d3147a364e17
+type: text/vnd.tiddlywiki
+
+<$macrocall $name=table-dynamic  caption="待办列表" filter="[tag[Task]]+[field:priority[very high]]-[tag[done]]" fields="title tags" class="w-100"/>
