@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://wiki.onetwo.ren/#:2021-1-14/去除负面记录</loc>
-		<lastmod>2021-01-14</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:2021-1-14/开通6.1</loc>
 		<lastmod>2021-01-14</lastmod>
 		<changefreq>monthly</changefreq>
@@ -20,18 +14,12 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Apache%2520Beam</loc>
-		<lastmod>2021-01-14</lastmod>
+		<lastmod>2021-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Book</loc>
-		<lastmod>2021-01-14</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;错误处理&apos;%2520by%2520patrick</loc>
 		<lastmod>2021-01-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -79,6 +67,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:c++函数式编程</loc>
+		<lastmod>2021-01-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -87,6 +81,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:mmpaynewtonuserisksvr变更文档</loc>
 		<lastmod>2021-01-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:分层等级-规则引擎</loc>
+		<lastmod>2021-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
