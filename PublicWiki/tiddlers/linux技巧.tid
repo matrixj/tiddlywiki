@@ -1,0 +1,13 @@
+created: 20210202094426761
+creator: patrick
+modified: 20210202094512893
+modifier: patrick
+tags: linux
+title: linux技巧
+tmap.id: 00da0ba6-3d05-46f6-b1ec-ebb5f591d690
+type: text/x-markdown
+
+在centos上安装gcc7*工具集：
+sudo yum install centos-release-scl
+sudo yum install devtoolset-7-gcc*
+scl enable devtoolset-7 bash
