@@ -15,3 +15,12 @@ gtid_executed.add_gtid_set(xxx);//Executed_Gtid_Set
 ```
 如果使用GTID MODE,但不设置AUTO_POSITION, 将使用POSITION MODE的定位方法
 
+
+# mysql slave查询状态语句
+```
+SELECT @@GLOBAL.SERVER_ID #查询主库server_id,用于避免冲突
+SELECT @@GLOBAL.GTID_MODE #查询master 的GTID_MODE，避免主库没有开GTID_MODE
+SELECT @@GLOBAL.SERVER_UUID #查询master的server_uuid#避免server_uuid冲突
+```
+
+
