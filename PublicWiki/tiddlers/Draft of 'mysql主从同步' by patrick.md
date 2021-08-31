@@ -30,5 +30,7 @@ com_binlog_dump_gtid #master调用此函数来处理
 ```
 随后就开始等待master发送Event
 
+## 从库关闭和异常恢复流程
+
 
 
