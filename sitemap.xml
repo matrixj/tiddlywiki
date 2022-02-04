@@ -25,8 +25,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;mysql主从同步&apos;%2520by%2520patrick</loc>
-		<lastmod>2021-08-25</lastmod>
+		<loc>https://wiki.onetwo.ren/#:Have%2520fun%2520with</loc>
+		<lastmod>2021-11-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -35,6 +35,12 @@
 		<lastmod>2021-01-14</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Jerasure库使用流程</loc>
+		<lastmod>2021-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Streaming%2520Systems,%25201st%2520Edition</loc>
@@ -49,6 +55,12 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:TiddlyMap!!</loc>
+		<lastmod>2021-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -57,6 +69,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWikiIconWhite.png</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:WeCom20211130-180603.png</loc>
+		<lastmod>2021-11-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -104,7 +122,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:mysql主从同步</loc>
-		<lastmod>2021-08-25</lastmod>
+		<lastmod>2021-11-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
